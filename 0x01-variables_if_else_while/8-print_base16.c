@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the numbers in base 16
+ * main - prints the numbers in base 16 in lower case
  * Return: Always 0
  */
 int main(void)
@@ -18,3 +18,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
+}
